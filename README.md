@@ -18,7 +18,7 @@ A simple web app for managing tasks, allowing users to add, edit, delete, and ma
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/todo-app.git
+  [ git clone https://github.com/username/todo-app.git](https://github.com/BeshoNessem/TodoApp-Testing.git)
 2. Navigate to the project directory:
    ```base
    cd todo-app
