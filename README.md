@@ -47,4 +47,15 @@ Checked the visual feedback (e.g., strikethrough for completed tasks).
 Ensured the interface is responsive and user-friendly.
 Checked cross-browser compatibility (Chrome, Firefox, etc.).
 
+##🛠️ Tools & Technologies Used in Testing
+
+1.Bug Tracking: [google sheet]
+2.Manual Testing: Following structured test cases.
+
+
+##📝 Test Cases
+https://docs.google.com/spreadsheets/d/1bvEpwL6ObXuh7Sy7fpSBCbCgsvXauDMY/edit?usp=sharing&ouid=106914076269396141332&rtpof=true&sd=true
+
+##📝 Bug report
+https://docs.google.com/spreadsheets/d/1YNT40kPdkZisPrGG5tSO-WLNPsc2JlJ-L-xjoaMrIbE/edit?usp=sharing
 
